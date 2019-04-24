@@ -1,0 +1,41 @@
+body {
+    background: linear-gradient(to right, #9cdbd856, #f0529418);
+}
+
+header {
+    text-align: center;
+    text-decoration-line: underline;
+    font-family: george, script;
+}
+
+table {
+    margin: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th {
+    font-family: george, script;
+    text-align: center;
+    table-layout: auto;
+    padding: 10px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td {
+    font-family: george, script;
+    font-size: 20px;
+    text-align: left;
+    padding: 10px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+h5 {
+    text-align: center;
+}
+
+footer {
+    font-size: 20px;
+}
